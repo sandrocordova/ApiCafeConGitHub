@@ -1,36 +1,6 @@
 {
     "clientes": [
         {
-            "id": 70,
-            "tipo_cafe": "Claro",
-            "pais": "Ecuador",
-            "cantidad": 34
-        },
-        {
-            "id": 71,
-            "tipo_cafe": "Claro",
-            "pais": "USA",
-            "cantidad": 41
-        },
-        {
-            "id": 72,
-            "tipo_cafe": "Claro",
-            "pais": "Bolivia",
-            "cantidad": 20
-        },
-        {
-            "id": 73,
-            "tipo_cafe": "Claro",
-            "pais": "Mexico",
-            "cantidad": 32
-        },
-        {
-            "id": 74,
-            "tipo_cafe": "Frances",
-            "pais": "Bolivia",
-            "cantidad": 45
-        },
-        {
             "id": 75,
             "tipo_cafe": "Claro",
             "pais": "Bolivia",
